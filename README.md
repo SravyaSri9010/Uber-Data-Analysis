@@ -45,4 +45,3 @@ It highlights a **business analyst mindset** by connecting technical findings wi
 
 ---
 
-## 📂 Repository Structure  
